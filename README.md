@@ -1,4 +1,3 @@
-# India-Population-Visualisation
 # India Population Visualization Dashboard
 
 This Streamlit app provides an interactive dashboard for visualizing population and demographic parameters across Indian states and districts. Users can select primary and secondary parameters to compare, and view results on an interactive map.
